@@ -1,0 +1,13 @@
+C:\Users\BICI\source\repos\TestSAYNA\bin\Debug\netcoreapp3.1\TestSAYNA.exe
+C:\Users\BICI\source\repos\TestSAYNA\bin\Debug\netcoreapp3.1\TestSAYNA.deps.json
+C:\Users\BICI\source\repos\TestSAYNA\bin\Debug\netcoreapp3.1\TestSAYNA.runtimeconfig.json
+C:\Users\BICI\source\repos\TestSAYNA\bin\Debug\netcoreapp3.1\TestSAYNA.runtimeconfig.dev.json
+C:\Users\BICI\source\repos\TestSAYNA\bin\Debug\netcoreapp3.1\TestSAYNA.dll
+C:\Users\BICI\source\repos\TestSAYNA\bin\Debug\netcoreapp3.1\TestSAYNA.pdb
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.csprojAssemblyReference.cache
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.AssemblyInfoInputs.cache
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.AssemblyInfo.cs
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.csproj.CoreCompileInputs.cache
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.dll
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.pdb
+C:\Users\BICI\source\repos\TestSAYNA\obj\Debug\netcoreapp3.1\TestSAYNA.genruntimeconfig.cache
